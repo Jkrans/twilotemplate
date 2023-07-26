@@ -126,7 +126,7 @@
         "enabled": true
       },
       "chat_transfer": {
-        "enabled": false
+        "enabled": true
       },
       "agent_automation": {
         "enabled": true,
